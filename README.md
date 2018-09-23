@@ -170,6 +170,10 @@ https://github.com/lanjelot/patator
 
 https://github.com/xmendez/wfuzz
 
+**ExifTool by Phil Harvey** - используя exiftool, можно изменить метаданные EXIF, которые могут привести к отражению
+
+https://sno.phy.queensu.ca/~phil/exiftool/
+
 ---
 
 **Subdomains:**
@@ -311,3 +315,31 @@ https://github.com/jhaddix/tbhm
 https://www.reddit.com/r/ReverseEngineering/
 
 https://forum.reverse4you.org/showthread.php?t=2656
+
+Web Application Security Testing Cheat Sheet
+https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
+
+File Upload XSS & etc
+https://brutelogic.com.br/blog/file-upload-xss/
+
+
+**Scanners other**
+
+Netsparker - Application Security Scanner — Application security scanner to automatically find security flaws.
+https://www.netsparker.com/
+Arachni  —  Scriptable framework for evaluating the security of web applications.
+http://www.arachni-scanner.com/
+w3af  —  Web application attack and audit framework.
+https://github.com/andresriancho/w3af
+Wapiti  —  Black box web application vulnerability scanner with built-in fuzzer.
+http://wapiti.sourceforge.net/
+SecApps  —  In-browser web application security testing suite.
+https://secapps.com/
+WebReaver  —  Commercial, graphical web application vulnerability scanner designed for macOS.
+https://www.webreaver.com/
+joomscan  —  Joomla vulnerability scanner.
+https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project
+ACSTIS  —  Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+https://github.com/tijme/angularjs-csti-scanner
+SQLmate  —  A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
+https://github.com/s0md3v/sqlmate
