@@ -184,6 +184,10 @@ https://sno.phy.queensu.ca/~phil/exiftool/
 
 https://forum.bugcrowd.com/t/researcher-resources-tools/167
 
+**Arjun** - это скрипт python для поиска скрытых параметров GET & POST с использованием регулярных выражений и командной строки.
+
+https://github.com/s0md3v/Arjun
+
 ---
 
 **Subdomains:**
@@ -301,6 +305,8 @@ https://www.exploit-db.com
 **Google Dorks**
 https://habr.com/post/283210/
 
+https://apollonsky.me/growth-hacking-google-dork/
+
 https://telegra.ph/Google-kak-sredstvo-vzloma-Razbiraem-aktualnye-recepty-Google-Dork-Queries-09-23
 
 site:.eu responsible disclosure
@@ -372,53 +378,66 @@ https://www.reddit.com/r/netsec
 Bug Bounty World
 https://bugbountyworld.com/
 
+Detectify Blog
+https://blog.detectify.com/
 
-**CheatSheet**
+fin1te: Bug Bounty Participant
+https://whitton.io/
 
-Pentest Bookmarks
-https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md
+Security & Code Blog
+https://bitquark.co.uk/blog/
 
-Awesome OSINT Cheat-sheet
-https://github.com/jivoi/awesome-osint
+Bug Crowd Forum
+https://bugbountyforum.com/blogs/
 
-Awesome Pentest Cheat-sheet
-https://github.com/enaqx/awesome-pentest
+ARNE SWINNEN’S SECURITY BLOG
+https://www.arneswinnen.net/
 
-Bug Bounty Cheat-sheet
-https://github.com/EdOverflow/bugbounty-cheatsheet
+Hacks4Pancakes
+http://tisiphone.net/
 
-Awesome Hacking Cheat-sheet
-https://github.com/Hack-with-Github/Awesome-Hacking
+Daniel LeCheminant
+http://danlec.com/blog
 
-Awesome-Infosec Cheat-Sheet
-https://github.com/onlurking/awesome-infosec
+We Hack People
+http://wehackpeople.tumblr.com/
 
-SQL Injection Cheat-Sheet
-http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
+IT-Securityguard Blog
+https://blog.it-securityguard.com/
 
-XSS Cheat-Sheet
-https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
+The misunderstood X-XSS-Protection
+https://blog.innerht.ml/
 
-XXE Payload
-https://gist.github.com/staaldraad/01415b990939494879b4
+Bug Bounty Findings by Meals
+https://seanmelia.wordpress.com/
 
+VYSEC
+http://vincentyiu.london/wordpress/
 
-**Wordlist**
+PWNHACK
+https://pwnhack.com/
 
-SecLists (Discovery, Fuzzing, Shell, Directory Hunting, CMS)
-https://github.com/danielmiessler/SecLists
+Philippe Harewood
+http://philippeharewood.com/
 
-Directory wordlist
-https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
+ARNE SWINNEN’S SECURITY BLOG
+https://www.arneswinnen.net/
 
-Portable Wordlist
-https://github.com/berzerk0/Probable-Wordlists
+NahamSec.com
+http://archive.nahamsec.com/
 
-FUZZ-DB
-https://github.com/fuzzdb-project/fuzzdb
+Respect XSS
+https://respectxss.blogspot.com/
 
-Mix-Wordlist
-https://github.com/jeanphorn/wordlist
+Graceful Security!
+https://www.gracefulsecurity.com/
+
+Fooling the Interpreter
+http://brutelogic.com.br/blog/
+
+Klikki Oy
+https://klikki.fi/
+
 
 **Scanners other**
 
