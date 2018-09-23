@@ -69,6 +69,12 @@ https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnck
 **BuiltWith Technology Profiler** - возвращает все технологии, которые он может найти на странице
 https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en
 
+**Chrome :** 
+http://resources.infosecinstitute.com/19-extensions-to-turn-google-chrome-into-penetration-testing-tool/
+
+**Firefox :** 
+http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/
+
 ---
 
 **Recon-ng** - разведывательный веб-фреймворк, предназначен для обнаружения поддоменов, файлов с приватными данными, перебора пользователей, парсинга соцсетей, и т.д.
@@ -293,6 +299,16 @@ https://habr.com/post/283210/
 
 https://telegra.ph/Google-kak-sredstvo-vzloma-Razbiraem-aktualnye-recepty-Google-Dork-Queries-09-23
 
+site:.eu responsible disclosure
+
+inurl:index.php?id=
+
+site:.nl bug bounty
+
+“index of” inurl:wp-content/ (Identify Wordpress Website)
+
+inurl:”q=user/password” (for finding drupal cms )
+
 site:example.com filetype:txt
 
 inurl - ищет текст в url'е сайта
@@ -322,24 +338,109 @@ https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
 File Upload XSS & etc
 https://brutelogic.com.br/blog/file-upload-xss/
 
+Bug Bounty write-ups and POC
+https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137
+
+Awesome Bug Bounty
+https://github.com/djadmin/awesome-bug-bounty
+
+SecurityBreached-BugBounty POC
+https://blog.securitybreached.org/category/bugbounty-poc/
+
+Facebook Hunting POC
+https://facebook.com/notes/phwd/facebook-bug-bounties/707217202701640/?__tn__=%2As-R
+
+Bug Hunting Tutorials
+https://forum.bugcrowd.com/t/researcher-resources-tutorials/370
+
+PentesterLand Bug Bounty Writeups
+https://pentester.land/list-of-bug-bounty-writeups.html
+
+Hackerone POC Reports
+http://h1.nobbd.de/
+
+Bug Bounty POC
+http://www.xsses.com/
+
+Netsec on Reddit
+https://www.reddit.com/r/netsec
+
+Bug Bounty World
+https://bugbountyworld.com/
+
+
+**CheatSheet**
+
+Pentest Bookmarks
+https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md
+
+Awesome OSINT Cheat-sheet
+https://github.com/jivoi/awesome-osint
+
+Awesome Pentest Cheat-sheet
+https://github.com/enaqx/awesome-pentest
+
+Bug Bounty Cheat-sheet
+https://github.com/EdOverflow/bugbounty-cheatsheet
+
+Awesome Hacking Cheat-sheet
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+Awesome-Infosec Cheat-Sheet
+https://github.com/onlurking/awesome-infosec
+
+SQL Injection Cheat-Sheet
+http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
+
+XSS Cheat-Sheet
+https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
+
+XXE Payload
+https://gist.github.com/staaldraad/01415b990939494879b4
+
+
+**Wordlist**
+
+SecLists (Discovery, Fuzzing, Shell, Directory Hunting, CMS)
+https://github.com/danielmiessler/SecLists
+
+Directory wordlist
+https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056
+
+Portable Wordlist
+https://github.com/berzerk0/Probable-Wordlists
+
+FUZZ-DB
+https://github.com/fuzzdb-project/fuzzdb
+
+Mix-Wordlist
+https://github.com/jeanphorn/wordlist
 
 **Scanners other**
 
 Netsparker - Application Security Scanner — Application security scanner to automatically find security flaws.
 https://www.netsparker.com/
+
 Arachni  —  Scriptable framework for evaluating the security of web applications.
 http://www.arachni-scanner.com/
+
 w3af  —  Web application attack and audit framework.
 https://github.com/andresriancho/w3af
+
 Wapiti  —  Black box web application vulnerability scanner with built-in fuzzer.
 http://wapiti.sourceforge.net/
+
 SecApps  —  In-browser web application security testing suite.
 https://secapps.com/
+
 WebReaver  —  Commercial, graphical web application vulnerability scanner designed for macOS.
 https://www.webreaver.com/
+
 joomscan  —  Joomla vulnerability scanner.
 https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project
+
 ACSTIS  —  Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
 https://github.com/tijme/angularjs-csti-scanner
+
 SQLmate  —  A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
 https://github.com/s0md3v/sqlmate
