@@ -66,6 +66,9 @@ https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbf
 **IP Address and Domain Information**
 https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa
 
+**BuiltWith Technology Profiler** - возвращает все технологии, которые он может найти на странице
+https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en
+
 ---
 
 **Recon-ng** - разведывательный веб-фреймворк, предназначен для обнаружения поддоменов, файлов с приватными данными, перебора пользователей, парсинга соцсетей, и т.д.
@@ -102,6 +105,10 @@ https://habr.com/company/pentestit/blog/328382/
 _Burp Suite scanner plugin_
 https://github.com/vulnersCom/burp-vulners-scanner
 
+**Retire.js** - Scan a web app or node app for use of vulnerable JavaScript libraries and/or node modules.
+
+http://retirejs.github.io/retire.js/
+
 **Fiddler** - работа с трафиком, позволяет устанавливать контрольные точки и «скрипку» с входящими или исходящими данными.
 
 https://www.telerik.com/fiddler
@@ -113,6 +120,14 @@ https://habr.com/post/140147/
 http://sqlmap.org/
 
 https://hackware.ru/?p=1928
+
+**CMSmap** - сканер CMS с открытым исходным кодом на основе python, который автоматизирует процесс обнаружения недостатков безопасности самых популярных CMS. (WordPress, Joomla, Drupal и Moodle)
+
+https://github.com/Dionach/CMSmap
+
+**WPScan** - является бесплатным, для некоммерческого использования, черным ящиком WordPress scanner, написанным для профессионалов безопасности и разработчиков блога, для проверки безопасности своих сайтов.
+
+https://wpscan.org/
 
 **Bucket Finder** - инструмент, который позволит искать бакеты Amazon S3, доступные на чтение и покажет все файлы в них. Это также может быть использовано для быстрого поиска бакетов, которые существуют, но не позволяют прочитать список файлов - на этих бакетах вы можете воспользоваться AWS CLI для проверки доступа на запись.
 
@@ -146,6 +161,14 @@ https://www.torproject.org/
 http://www.openwall.com/john/
 
 https://github.com/vanhauser-thc/thc-hydra
+
+**Patator** - многопоточный, написанный на Python, инструмент принудительного форсирования (bruteforce)
+
+https://github.com/lanjelot/patator
+
+**Wfuzz - The Web Fuzzer** - создан для облегчения задачи в оценках веб-приложений и основан на простой концепции: он заменяет любую ссылку на ключевое слово FUZZ на значение данной полезной нагрузки.
+
+https://github.com/xmendez/wfuzz
 
 ---
 
