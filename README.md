@@ -180,6 +180,10 @@ https://github.com/xmendez/wfuzz
 
 https://sno.phy.queensu.ca/~phil/exiftool/
 
+**Researcher Resources** - Tools
+
+https://forum.bugcrowd.com/t/researcher-resources-tools/167
+
 ---
 
 **Subdomains:**
