@@ -393,6 +393,9 @@ https://bugbountyforum.com/blogs/
 ARNE SWINNEN’S SECURITY BLOG
 https://www.arneswinnen.net/
 
+Danielmiessler blog
+https://danielmiessler.com/blog/
+
 Hacks4Pancakes
 http://tisiphone.net/
 
