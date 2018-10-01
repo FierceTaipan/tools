@@ -46,6 +46,16 @@ dig, nslookup, mxtoolbox.com
 
 ---
 
+**Reg**
+
+https://regex101.com/tests
+
+https://www.freeformatter.com/java-regex-tester.html
+
+https://regexr.com/
+
+---
+
 ***Plugins***
 
 **Wappalyzer**
