@@ -142,9 +142,9 @@ https://www.telerik.com/fiddler
 https://habr.com/post/140147/
 
 **Sqlmap** - позволяет тестировать сайты на SQLi (SQL Injection) с огромным списком возможностей.
+sudo apt install sqlmap
 
 http://sqlmap.org/
-
 https://hackware.ru/?p=1928
 
 **CMSmap** - сканер CMS с открытым исходным кодом на основе python, который автоматизирует процесс обнаружения недостатков безопасности самых популярных CMS. (WordPress, Joomla, Drupal и Moodle)
