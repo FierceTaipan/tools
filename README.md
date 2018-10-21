@@ -85,6 +85,15 @@ http://resources.infosecinstitute.com/19-extensions-to-turn-google-chrome-into-p
 **Firefox :** 
 http://resources.infosecinstitute.com/use-firefox-browser-as-a-penetration-testing-tool-with-these-add-ons/
 
+**Web-developer**
+https://addons.mozilla.org/ru/firefox/addon/web-developer/
+
+**RestClient**
+https://addons.mozilla.org/ru/firefox/addon/restclient/
+
+**Wapiti** - консольный сканер веб-приложений, который в своей основе несет принцип BlackBox тестирования
+https://sourceforge.net/p/wapiti/news/2018/05/wapiti-301/
+
 ---
 
 **Recon-ng** - разведывательный веб-фреймворк, предназначен для обнаружения поддоменов, файлов с приватными данными, перебора пользователей, парсинга соцсетей, и т.д.
