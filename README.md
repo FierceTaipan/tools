@@ -92,7 +92,8 @@ https://addons.mozilla.org/ru/firefox/addon/web-developer/
 https://addons.mozilla.org/ru/firefox/addon/restclient/
 
 **Wapiti** - консольный сканер веб-приложений, который в своей основе несет принцип BlackBox тестирования
-https://sourceforge.net/p/wapiti/news/2018/05/wapiti-301/
+https://sourceforge.net/p/wapiti/news/2018/05/wapiti-301/  
+pip install wapiti3
 
 ---
 
