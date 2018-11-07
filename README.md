@@ -492,3 +492,10 @@ https://github.com/tijme/angularjs-csti-scanner
 
 SQLmate  —  A friend of sqlmap that identifies sqli vulnerabilities based on a given dork and website (optional).
 https://github.com/s0md3v/sqlmate
+
+--- 
+
+Прочее:
+
+Чеклист верстки
+https://github.com/ihorzenich/html5checklist/
